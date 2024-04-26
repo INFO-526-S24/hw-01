@@ -22,13 +22,7 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
 
 ## Feedback
 
-### Exercise 1: `[_ / 10 points]`
-
-- Plot: `[_ / 6 points]`
-- Narrative: `[_ / 4 points]`
-- Feedback: [Insert feedback here.]
-
-### Exercise 2: `[_ / 20 points]`
+### Exercise 1: `[_ / 20 points]`
 
 a. `[_ / 8 points]`
 
@@ -53,7 +47,7 @@ d. `[_ / 5 points]`
   - Narrative: `[_ / 2]`
   - Feedback: [Insert feedback here.]
 
-### Exercise 3: `[_ / 20 points]`
+### Exercise 2: `[_ / 20 points]`
 
 a. `[_ / 2]`
   - Feedback: [Insert feedback here.]
@@ -63,6 +57,14 @@ b. `[_ / 2]`
 
 c. `[_ / 16]` (2 points each)
   - Feedback: [Insert feedback for any plots that don't match here.]
+
+### Exercise 3: `[_ / 15 points]`
+
+- Plot 1: `[_ / 5 points]`
+- Narrative: `[_ / 2.5 points]`
+- Plot 2: `[_ / 5 points]`
+- Narrative: `[_ / 2.5 points]`
+- Feedback: [Insert feedback here.]
   
 ### Exercise 4: `[_ / 10 points]`
 
@@ -70,7 +72,7 @@ c. `[_ / 16]` (2 points each)
 - Narrative: `[_ / 4 points]`
 - Feedback: [Insert feedback here.]
 
-### Exercise 5: `[_ / 20 points]`
+### Exercise 5: `[_ / 15 points]`
 
 Feedback: [Insert feedback here.]
 
